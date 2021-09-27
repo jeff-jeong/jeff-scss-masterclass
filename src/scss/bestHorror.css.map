@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,IADA,CACA,IAAI,CAAC;EACD,KAAK,EAAC,KAAK;EACX,gBAAgB,EAAE,IAAI;CACzB",
+    "sources": [
+        "bestHorror.scss"
+    ],
+    "names": [],
+    "file": "bestHorror.css"
+}
